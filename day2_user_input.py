@@ -1,0 +1,10 @@
+name = input("Enter your name :")
+age = int(input("enter your age :"))
+dream = input("Your goal : ")
+country = input("where did you want to work in future : ")
+print(f"your name is {name}")
+print(f"You are {age} years old now ")
+print(f"Your goal is to become a {dream}")    
+print(f"You want to work in {country} in future")
+
+print(f"{name} you will become a {dream}\n In 2 years and work in your dream country {country} at the age of {age +2}\n best of luck champ for your future journey {name} I know you can do it champ🏆🚀 ")
